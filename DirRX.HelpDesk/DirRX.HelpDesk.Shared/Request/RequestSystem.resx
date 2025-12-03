@@ -68,7 +68,7 @@
     <value>Request</value>
   </data>
   <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Request</value>
+    <value>Requests</value>
   </data>
   <data name="Property_Number" xml:space="preserve">
     <value>Number</value>
@@ -81,5 +81,8 @@
   </data>
   <data name="Property_Responsible" xml:space="preserve">
     <value>Responsible</value>
+  </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Index</value>
   </data>
 </root>
